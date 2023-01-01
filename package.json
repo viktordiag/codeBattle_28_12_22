@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/viktordiag/codeBattle_28_12_22#readme",
   "bin": {
-    "ls": "bin/brain-games.js"
+    "brain-games2": "bin/brain-games.js"
   },
   "keywords": []
 }
