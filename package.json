@@ -1,0 +1,24 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "мусорный проект . удалить после экспериментов",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktordiag/codeBattle_28_12_22.git"
+  },
+  "author": "Viktor Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktordiag/codeBattle_28_12_22/issues"
+  },
+  "homepage": "https://github.com/viktordiag/codeBattle_28_12_22#readme",
+  "bin": {
+    "ls": "bin/brain-games.js"
+  },
+  "keywords": []
+}
