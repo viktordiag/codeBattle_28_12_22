@@ -1,4 +1,5 @@
 //solution() принять на вход строку, перевернуть каждое слово, но сохранить порядок слов.
+export const myName = 'Viktor';
 export const solution = (s) => {
 	const stringToArr = s.split(' ');
 	const resaltArr = [];
